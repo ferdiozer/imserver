@@ -1,0 +1,4 @@
+version: 1.0.0
+title: im.js-server
+description: |
+  基于 socket.io + cloverx 实现

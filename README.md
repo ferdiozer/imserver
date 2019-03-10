@@ -1,5 +1,5 @@
 # im.js.server
->[im.js](https://github.com/im-js/im.js) 服务端代码，基于 [cloverx](https://github.com/clover-x/cloverx) 开发。
+>[im.js](https://github.com/im-js/im.js) Sunucu kodu, göre [cloverx](https://github.com/clover-x/cloverx) geliştirildi.
 
 
 ## Requirements
@@ -7,15 +7,15 @@
 * Redis >= 3.0.2
 * Mysql >= 5.6.5
 
-## Usage
-先前往 `config` 目录，配置基本信息，然后  
+## Kullanımı
+Önce "config" dizinine gidin, temel bilgileri yapılandırın, ardından
 ```shell
 npm install
 ```
-启动
+başlangıç
 ```shell
 npm run dev
 ```
 
-## Nginx 配置参考
+## Nginx Yapılandırma referansı
 [x-config/nginx](https://github.com/plusmancn/x-config/tree/master/nginx)
